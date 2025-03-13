@@ -1,1 +1,22 @@
-
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ContextWindow</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Wed, 18 Dec 2024 19:06:46 +0530</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/naveennaidu/contextwindow-release/releases/latest/download/ContextWindow.dmg" length="1803331" type="application/octet-stream" sparkle:edSignature="TPIjMJSmyo7ScOdISQBMKk1ro5ofRUZzWrtSlPJ1s2qUzGKEqEP/+3OZxxj0ya5P0j/WjKxRpmfpCJH6QIzRCA=="/>
+        </item>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 18 Dec 2024 10:36:57 +0530</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/naveennaidu/contextwindow-release/releases/latest/download/ContextWindow.dmg" length="1766161" type="application/octet-stream" sparkle:edSignature="3A1DzogzzlvRmfBv/2GxMsRcEtwmMMn3QH9OPrFZ+LF+dRVfhk6XMkd9hWZSHWjAqwx3DCOyiZDZKiTKE3xNDA=="/>
+        </item>
+    </channel>
+</rss>
