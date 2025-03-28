@@ -1,7 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Unwrite</title>
+        <title>UnwriteMac</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Fri, 28 Mar 2025 20:17:59 +0530</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/naveennaidu/unwrite-release/releases/latest/download/Unwrite.dmg" length="2436367" type="application/octet-stream" sparkle:edSignature="r94+ARGPHheJSXKpacVGy2DzcQThkGKCEqNQReZQx9aTElfMm8b7AeOHdp1dwhmXJ0LeH3LKnyJ8aazCWKJJDQ=="/>
+        </item>
         <item>
             <title>1.0</title>
             <pubDate>Fri, 28 Mar 2025 18:52:08 +0530</pubDate>
