@@ -3,6 +3,24 @@
     <channel>
         <title>UnwriteMac</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Wed, 02 Apr 2025 17:06:43 +0530</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Unwrite 1.0.2: Focus on Reliability</h2>
+                <p>Working with accessibility APIs is tricky. This update focuses on supporting specific apps really well, rather than everything poorly.</p>
+                <ul>
+                    <li>Now shows you exactly which apps are supported</li>
+                    <li>Menu bar icon changes color to show when you're in a supported app</li>
+                    <li>Cleaner workflow: trigger with hotkey → review in popover → apply with cmd+enter</li>
+                </ul>
+                <p>I'll keep adding more supported apps as I test them</p>
+            ]]></description>
+            <enclosure url="https://github.com/naveennaidu/unwrite-release/releases/latest/download/Unwrite.dmg" length="2518629" type="application/octet-stream" sparkle:edSignature="EW7VM14Ttr3t40DBnSe+EwaT52Fd/TLHFWtAWK6D48i6H8M4yPKLVZgmHsHZmm9QGk4KIytvM5iXpP7MSHexBQ=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Fri, 28 Mar 2025 20:17:59 +0530</pubDate>
             <sparkle:version>2</sparkle:version>
