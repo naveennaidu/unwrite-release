@@ -3,6 +3,17 @@
     <channel>
         <title>UnwriteMac</title>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Thu, 03 Apr 2025 10:50:45 +0530</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>fixed a bug where the app is continuously copying in slack and discord</p>
+            ]]></description>
+            <enclosure url="https://github.com/naveennaidu/unwrite-release/releases/latest/download/Unwrite.dmg" length="2521575" type="application/octet-stream" sparkle:edSignature="UDvG3q9Kl+zNfvKRaur4nhBrMD1VwBqm/YY4Nm3V3/wgj73IFdAVY1uP2g6PxFGmJjj/kvL6QBa13h5obgLQDQ=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Wed, 02 Apr 2025 17:06:43 +0530</pubDate>
             <sparkle:version>3</sparkle:version>
